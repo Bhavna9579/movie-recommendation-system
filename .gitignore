@@ -1,3 +1,8 @@
 venv
 model/
 *.pkl
+
+.idea/
+.venv/
+__pycache__/
+*.pkl
